@@ -1,0 +1,21 @@
+belows are typed in emacs
+
+**File, window**
+Ctrl-x Ctrl-s	 Save file
+Ctrl-x-c	 Close file
+Ctrl-x-f <file>	 Open file from editor
+Ctrl-x 2/3	 Split window vertically/horizontally
+Ctrl-x o	 Move to different window
+Ctrl-x 1/0	 Close other/this window
+
+**Text edit**
+Ctrl-k		Cut line
+Ctrl-[SPACE]	Mark cursor(move with arrow key)
+Ctrl/alt-w	cut/copy region
+Ctrl-y		paste cut/copied region
+Ctrl-s/r <string>     search/recursive string
+
+**Special**
+Ctrl-x u OR Ctrl-/	undo
+Ctrl-g 	    	   	abort command
+
